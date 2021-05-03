@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -79,9 +81,9 @@
 	}
 	.row_image_container {
 	  float:   left;
-	  width:   25%;
+	  width:   35%;
 	  padding: 0px;
-	  background-color: gray;
+	  background-color: white;
 	  display: flex;
 	  justify-content: center;
 	  align-items: center;
@@ -93,7 +95,7 @@
 	}
 	.row_content {
 	  float: right;
-	  width: 75%;
+	  width: 65%;
 	  height: auto;
 	  padding: 10px;
 	  background-color: white;
@@ -104,10 +106,13 @@
     <title>Hello, world! I'm Trager.</title>
   </head>
 
+    <h1>Hello, world! I'm Trager.</h1>
+    <p>This webpage is currently under development...</p>
+
 <!-- MAIN (Center website) -->
 <div class="main">
 <div style="float:left;">
-<img src="mountains.png" alt="Lights" style="height:150px; padding:10px">
+<img src="images/trager.png" alt="Lights" style="height:150px; padding:10px">
 </div>
 <br><br>
 <div style="float:left">
@@ -116,7 +121,7 @@
 <A HREF="pages/about.html">About</A>
 <A HREF="#Current Projects" style="margin-left:10px">Current Projects</A>
 <A HREF="#Past Projects" style="margin-left:10px">Past Projects</A>
-<A HREF="files/Joswig-Jones_Trager_CV.pdf" target=”_blank” style="margin-left:10px">CV</A>
+<A HREF="files/Joswig_Jones_Trager_CV_5-2-2021.pdf" target=”_blank” style="margin-left:10px">CV</A>
 </div>
 
 <hr style="clear: both;">
@@ -127,72 +132,97 @@
  solutions for power systems, with especial interest in the impacts of variable renewable energy 
  resources on system planning and operation. </p>
 
+<!-- Current Projects -->
+<!-- Portfolio Rows -->
+<div class="main">
+	<h3 id="Current Projects">Current Projects</h3>
+  <div class="rows">
+	<!-- REAL Research -->
+	<div class="row">
+		<div class="row_image_container">
+		<img src="images/REAL_Stor_Dispatch_ED.png" alt="Lights" class="row_image">
+		</div>
+		<div class="row_content">
+		<h3>Impacts of Storage Dispatch Assumptions on Resource Adequacy</h3>
+		<p>Researching the effects of energy storage dispatch assumptions on resource adequacy assessment using the NREL Probabilistic Resource Adequacy Suite. This research is being performed in the Renewable Energy Analysis Lab under Professor Daniel Kirschen and Ph.D. candidate Gord Stephen.</p>
+		</div>
+	</div>
+	
+	<!-- Power Electronics Capstone Project -->
+	<div class="row">
+		<div class="row_image_container">
+		<img src="images/PCB_FINAL_CAD.PNG" alt="Lights" class="row_image">
+		</div>
+		<div class="row_content">
+		<h3>E-Bike Power Electronics System</h3>
+		<p>UW power electronics & drives concentration capstone project. 
+		</p>	
+		<p>Designing the power electronics hardware and controls for an E-bike to convert power from a 24V battery to control a BLDC motor. This includes creating electrical schematics, fabricating a PCB, developing digital signal processor controls, and testing the integrated control system.
+		</p>
+		</div>
+	</div>
+</div>
+
+<!-- Past Projects -->
 <!-- Portfolio Gallery Grid -->
-<h3 id="Current Projects">Current Projects</h3>
-<div 
+<div>
+<h3 id="Past Projects">Past Projects</h3>
+<p>Lorem ipsum..</p>
+
 <div class="row" style="position:static; left:50%">
   <div class="column">
-    <div class="content">
+    <!-- EcoCAR -->
+	<div class="content">
       <div>
-	  <img src="mountains.png" alt="Lights" style="width:100%">
+	  <img src="images/UW_EcoCAR_Blazer.webp" alt="Lights" style="width:100%">
       </div>
       <h3>UW EcoCAR</h3>
-      <p>Led a team of 25+ members working towards integrating a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
+      <p>Led a team of 25+ members to integrate a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
     </div>
   </div>
+  <!-- Python Power Flow & Fault -->
   <div class="column">
     <div class="content">
       <div>
-	  <img src="mountains.png" alt="Lights" style="width:100%">
+	  <img src="images/CHW1_PWD_ONELINE.JPG" alt="Lights" style="width:100%">
       </div>
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-      <div>
-	  <img src="mountains.png" alt="Lights" style="width:100%">
-      </div>
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-      <div>
-	  <img src="mountains.png" alt="Lights" style="width:100%">
-      </div>
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Power System Analysis Python Scripts</h3>
+      <p>A set of power flow and fault analysis scripts developed in Python for the EE 454 and EE 455 courses.</p>
     </div>
   </div>
 
+  <!-- Python Power Flow & Fault -->
+  <div class="column">
+    <div class="content">
+      <div>
+	  <img src="images/EE456_reports.png" alt="Lights" style="width:100%">
+      </div>
+      <h3 style="font-size:1.5em">Sustainable Power Systems Capstone Projects</h3>
+	  <p>A collection of hypothetical power system design projects for the EE 456, Computer-Aided Design in Power System, capstone course.</p>
+	  <!--
+	  <ul>
+		  <li>Wind Farm Collector System Design</li>
+		  <li>7-Year Transmission System Plan</li>
+		  <li>Western US System Stability Design</li>
+	  </ul>
+	  -->
+    </div>
+  </div>
+
+  <!-- Python Power Flow & Fault 
+  <div class="column">
+    <div class="content">
+      <div>
+	  <img src="mountains.png" alt="Lights" style="width:100%">
+      </div>
+      <h3>Fault Analysis Python Script</h3>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+  -->
+
 </div>
 
-<div class="main">
-  <h3 id="Past Projects">Past Projects</h3>
-  <p>Lorem ipsum..</p>
-  <div class="rows">
-	<div class="row">
-		<div class="row_image_container">
-		<img src="mountains.png" alt="Lights" class="row_image">
-		</div>
-		<div class="row_content">
-		<h3>My Work</h3>
-		<p>Led a team of 25+ members working towards integrating a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
-		</div>
-	</div>
-	<div class="row">
-		<div class="row_image_container">
-		<img src="HV.PNG" alt="Lights" class="row_image">
-		</div>
-		<div class="row_content">
-		<h3>My Work</h3>
-		<p>Lorem ipsum..</p>
-		</div>
-	</div>
-</div>
 
 <!-- END MAIN -->
 </div>
@@ -204,3 +234,5 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </body>
 </html>
+
+<!-- Use this? https://css-tricks.com/css-only-carousel/ -->
