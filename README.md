@@ -1,4 +1,4 @@
-### Hi there 👋
+### Senior Electrical Engineering undergraduate student at the University of Washington
 
 <!--
 **TragerJoswig-Jones/TragerJoswig-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
