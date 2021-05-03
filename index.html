@@ -13,7 +13,15 @@
 	* {
 	  box-sizing: border-box;
 	}
-
+	
+	.linked {
+		color:black;
+		text-decoration:none
+	}
+	.linked:hover {
+	  color: black;
+	}
+	
 	body {
 	  background-color: #f1f1f1;
 	  padding: 20px;
@@ -111,14 +119,17 @@
 
 <!-- MAIN (Center website) -->
 <div class="main">
+<a style="text-decoration:none" class="linked" href="index.html">
 <div style="float:left;">
-<img src="images/trager.png" alt="Lights" style="height:150px; padding:10px">
+<img src="images/trager.png" alt="trager" style="height:150px; padding:10px">
 </div>
 <br><br>
 <div style="float:left">
 <h1 style="display:inline">Trager </h1> <h1 style="white-space: nowrap; display:inline">Joswig-Jones</h1>
+</a>
 <br>
-<A HREF="pages/about.html">About</A>
+<A HREF="index.html">Home</A>
+<A HREF="pages/about.html" style="margin-left:10px">About</A>
 <A HREF="#Current Projects" style="margin-left:10px">Current Projects</A>
 <A HREF="#Past Projects" style="margin-left:10px">Past Projects</A>
 <A HREF="files/Joswig_Jones_Trager_CV_5-2-2021.pdf" target=”_blank” style="margin-left:10px">CV</A>
@@ -134,105 +145,124 @@
 
 <!-- Current Projects -->
 <!-- Portfolio Rows -->
+
 <div class="main">
 	<h3 id="Current Projects">Current Projects</h3>
-  <div class="rows">
-	<!-- REAL Research -->
-	<div class="row">
-		<div class="row_image_container">
-		<img src="images/REAL_Stor_Dispatch_ED.png" alt="Lights" class="row_image">
-		</div>
-		<div class="row_content">
-		<h3>Impacts of Storage Dispatch Assumptions on Resource Adequacy</h3>
-		<p>Researching the effects of energy storage dispatch assumptions on resource adequacy assessment using the NREL Probabilistic Resource Adequacy Suite. This research is being performed in the Renewable Energy Analysis Lab under Professor Daniel Kirschen and Ph.D. candidate Gord Stephen.</p>
-		</div>
-	</div>
 	
-	<!-- Power Electronics Capstone Project -->
-	<div class="row">
-		<div class="row_image_container">
-		<img src="images/PCB_FINAL_CAD.PNG" alt="Lights" class="row_image">
+	<div class="rows">
+		<!-- REAL Research -->
+		<div class="row">
+			<div class="row_image_container">
+			<a style="color:inherit" href="pages/projects/REAL.html">
+			<img src="images/REAL_Stor_Dispatch_ED.png" alt="Storage Dispatch Plots" class="row_image">
+			</a>
+			</div>
+			
+			<div class="row_content">
+			<a style="color:inherit" href="pages/projects/REAL.html">
+			<h3>Impacts of Storage Dispatch Assumptions on Resource Adequacy</h3>
+			</a>
+			<p>Researching the effects of energy storage dispatch assumptions on resource adequacy assessment using the NREL Probabilistic Resource Adequacy Suite. This research is being performed in the Renewable Energy Analysis Lab under Professor Daniel Kirschen and Ph.D. candidate Gord Stephen.</p>
+			</div>
 		</div>
-		<div class="row_content">
-		<h3>E-Bike Power Electronics System</h3>
-		<p>UW power electronics & drives concentration capstone project. 
-		</p>	
-		<p>Designing the power electronics hardware and controls for an E-bike to convert power from a 24V battery to control a BLDC motor. This includes creating electrical schematics, fabricating a PCB, developing digital signal processor controls, and testing the integrated control system.
-		</p>
+		</a>
+			
+		<!-- Power Electronics Capstone Project -->
+		<div class="row">
+			<div class="row_image_container">
+			<a style="color:inherit" href="pages/projects/e-bike.html">
+			<img src="images/PCB_FINAL_CAD.PNG" alt="E-Bike PCB CAD Render" class="row_image">
+			</a>
+			</div>
+			<div class="row_content">
+			<a style="color:inherit" href="pages/projects/e-bike.html">
+			<h3>E-Bike Power Electronics System</h3>
+			</a>
+			<p>UW power electronics & drives concentration capstone project. 
+			</p>	
+			<p>Designing the power electronics hardware and controls for an E-bike to convert power from a 24V battery to control a BLDC motor. This includes creating electrical schematics, fabricating a PCB, developing digital signal processor controls, and testing the integrated control system.
+			</p>
+			</div>
 		</div>
 	</div>
-</div>
 
-<!-- Past Projects -->
-<!-- Portfolio Gallery Grid -->
-<div>
-<h3 id="Past Projects">Past Projects</h3>
-<p>Lorem ipsum..</p>
+	<!-- Past Projects -->
+	<!-- Portfolio Gallery Grid -->
 
-<div class="row" style="position:static; left:50%">
-  <div class="column">
-    <!-- EcoCAR -->
-	<div class="content">
-      <div>
-	  <img src="images/UW_EcoCAR_Blazer.webp" alt="Lights" style="width:100%">
-      </div>
-      <h3>UW EcoCAR</h3>
-      <p>Led a team of 25+ members to integrate a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
-    </div>
-  </div>
-  <!-- Python Power Flow & Fault -->
-  <div class="column">
-    <div class="content">
-      <div>
-	  <img src="images/CHW1_PWD_ONELINE.JPG" alt="Lights" style="width:100%">
-      </div>
-      <h3>Power System Analysis Python Scripts</h3>
-      <p>A set of power flow and fault analysis scripts developed in Python for the EE 454 and EE 455 courses.</p>
-    </div>
-  </div>
+	<h3 id="Past Projects">Past Projects</h3>
+	<p>Lorem ipsum..</p>
 
-  <!-- Python Power Flow & Fault -->
-  <div class="column">
-    <div class="content">
-      <div>
-	  <img src="images/EE456_reports.png" alt="Lights" style="width:100%">
-      </div>
-      <h3 style="font-size:1.5em">Sustainable Power Systems Capstone Projects</h3>
-	  <p>A collection of hypothetical power system design projects for the EE 456, Computer-Aided Design in Power System, capstone course.</p>
-	  <!--
-	  <ul>
-		  <li>Wind Farm Collector System Design</li>
-		  <li>7-Year Transmission System Plan</li>
-		  <li>Western US System Stability Design</li>
-	  </ul>
-	  -->
-    </div>
-  </div>
+	<div class="row" style="position:static; left:50%">
+		<div class="column">
+		<!-- EcoCAR -->
+			<div class="content">
+			  <div style="margin-bottom:10px">
+			  <a style="color:inherit" href="pages/projects/EcoCAR.html">
+			  <img src="images/UW_EcoCAR_Blazer.webp" alt="UW EcoCAR Blazer at Red Square" style="width:100%">
+			  </div>
+			  <h3>UW EcoCAR</h3>
+			  </a>
+			  <p>Led a team of 25+ members to integrate a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
+			</div>
+		</div>
+		<!-- Python Power Flow & Fault -->
+		<div class="column">
+			<div class="content">
+			  <div style="margin-bottom:10px">
+			  <a style="color:inherit" href="pages/projects/python_power.html">
+			  <img src="images/CHW1_PWD_ONELINE.JPG" alt="Power World image of test system" style="width:100%">
+			  </div>
+			  <h3 style="font-size:1.5em">Power System Analysis Python Scripts</h3>
+			  </a>
+			  <p>A set of power flow and fault analysis scripts developed in Python for the EE 454 and EE 455 courses.</p>
+			</div>
+		</div>
 
-  <!-- Python Power Flow & Fault 
-  <div class="column">
-    <div class="content">
-      <div>
-	  <img src="mountains.png" alt="Lights" style="width:100%">
-      </div>
-      <h3>Fault Analysis Python Script</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  -->
+		<!-- Sustainable Power Systems Capstone -->
+		<div class="column">
+			<div class="content">
+				  <div style="margin-bottom:10px">
+				  <a style="color:inherit" href="pages/projects/ee456.html">
+				  <img src="images/EE456_reports.png" alt="Three project report covers" style="width:100%">
+				  </div>
+				  <h3 style="font-size:1.5em">Sustainable Power Systems Capstone Projects</h3>
+				  </a>
+				  <p>A collection of hypothetical power system design projects for the EE 456, Computer-Aided Design in Power System, capstone course.</p>
+				  <!--
+				  <ul>
+					  <li>Wind Farm Collector System Design</li>
+					  <li>7-Year Transmission System Plan</li>
+					  <li>Western US System Stability Design</li>
+				  </ul>
+				  -->
+				</div>
+		</div>
 
+		<!-- Python Power Flow & Fault 
+		<div class="column">
+		<div class="content">
+		  <div>
+		  <img src="mountains.png" alt="Lights" style="width:100%">
+		  </div>
+		  <h3>Fault Analysis Python Script</h3>
+		  <p>Lorem ipsum..</p>
+		</div>
+		</div>
+		-->
+
+	</div>
 </div>
 
 
 <!-- END MAIN -->
-</div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
 </html>
 
 <!-- Use this? https://css-tricks.com/css-only-carousel/ -->
