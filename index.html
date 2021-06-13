@@ -101,6 +101,16 @@
 	  margin: auto;
 	  display: block;
 	}
+	
+	.row_image_cropped {
+		width: 100%;
+		height: 200px;
+		margin: 0px 0px 0px 0px;
+		overflow: hidden;
+	}
+	
+
+	
 	.row_content {
 	  float: right;
 	  width: 65%;
@@ -121,7 +131,7 @@
 <div class="main">
 <a style="text-decoration:none" class="linked" href="index.html">
 <div style="float:left;">
-<img src="images/trager.png" alt="trager" style="height:150px; padding:10px">
+<img src="images/trager.png" alt="trager" style="height:175px; padding:10px">
 </div>
 <br><br>
 <div style="float:left">
@@ -137,8 +147,7 @@
 
 <hr style="clear: both;">
 
-<p>Undergraduate pursuing a BSEE degree at the University of Washington with a concentration
- in power electronics/drives and sustainable power systems. Experienced in python programming, 
+<p>Graduate student at the University of Washington pursuing a Ph.D. in Electrical Engineering. Graduated from the University of Washington in 2021 with a BSEE degree. Experienced in python programming, 
  project management, and energy system modeling. Interested in opportunities to research sustainable
  solutions for power systems, with especial interest in the impacts of variable renewable energy 
  resources on system planning and operation. </p>
@@ -150,49 +159,61 @@
 	<h3 id="Current Projects">Current Projects</h3>
 	
 	<div class="rows">
-		<!-- REAL Research -->
+		<!-- NREL SULI -->
 		<div class="row">
 			<div class="row_image_container">
 			<a style="color:inherit" href="pages/projects/REAL.html">
-			<img src="images/REAL_Stor_Dispatch_ED.png" alt="Storage Dispatch Plots" class="row_image">
+			<img src="images/space_trager2.png" alt="Project Filler Image" class="row_image">
 			</a>
 			</div>
 			
 			<div class="row_content">
 			<a style="color:inherit" href="pages/projects/REAL.html">
-			<h3>Impacts of Storage Dispatch Assumptions on Probabalistic Resource Adequacy Metrics</h3>
+			<h3>NREL SULI Internship</h3>
 			</a>
-			<p>Researching the effects of energy storage dispatch assumptions on resource adequacy assessment using the NREL Probabilistic Resource Adequacy Suite. This research is being performed in the Renewable Energy Analysis Lab under Professor Daniel Kirschen and Ph.D. candidate Gord Stephen.</p>
+			<p>Working on the creation of datasets for machine learning AC optimal power flow model testing and validation.</p>
 			</div>
 		</div>
 		</a>
 			
-		<!-- Power Electronics Capstone Project -->
-		<div class="row">
-			<div class="row_image_container">
-			<a style="color:inherit" href="pages/projects/e-bike.html">
-			<img src="images/PCB_FINAL_CAD.PNG" alt="E-Bike PCB CAD Render" class="row_image">
-			</a>
-			</div>
-			<div class="row_content">
-			<a style="color:inherit" href="pages/projects/e-bike.html">
-			<h3>E-Bike Power Electronics System</h3>
-			</a>
-			<p>UW power electronics & drives concentration capstone project. 
-			</p>	
-			<p>Designing the power electronics hardware and controls for an E-bike to convert power from a 24V battery to control a BLDC motor. This includes creating electrical schematics, fabricating a PCB, developing digital signal processor controls, and testing the integrated control system.
-			</p>
-			</div>
-		</div>
+
 	</div>
 
 	<!-- Past Projects -->
 	<!-- Portfolio Gallery Grid -->
 
 	<h3 id="Past Projects">Past Projects</h3>
-	<p></p>
 
 	<div class="row" style="position:static; left:50%">
+		
+		<!-- REAL Research -->
+		<div class="column">
+			<div class="content">
+			  <div style="margin-bottom:10px">
+			  <a style="color:inherit" href="pages/projects/REAL.html">
+			  <img src="images/REAL_Stor_Dispatch_ED.png" alt="Storage Dispatch Plots" class="row_image">
+			  </div>
+			  <h3>RA Storage Dispatch Assumptions</h3>
+			  </a>	
+			<p>Researched the impact of energy storage dispatch assumptions on power system resource adequacy assessment.</p>
+			</div>
+		</div>
+	
+
+		
+		<!-- Power Electronics Capstone Project -->
+		<div class="column">
+			<div class="content">
+			  <div style="margin-bottom:10px">
+			  <a style="color:inherit" href="pages/projects/e-bike.html">
+			  <img src="images/EE453_PCB_SQ.png" alt="E-Bike PCB" class="row_image">
+			  </div>
+			  <h3>E-Bike Power Electronics</h3>
+			  </a>	
+			<p>Designed the power electronics hardware and controls for an e-bike to convert power from a 24V battery to a motor drive signal.</p>
+			</div>
+		</div>
+	
 		<div class="column">
 		<!-- EcoCAR -->
 			<div class="content">
@@ -203,18 +224,6 @@
 			  <h3>UW EcoCAR</h3>
 			  </a>
 			  <p>Led a team of 25+ members to integrate a split-parallel hybrid electric drive train into a 2019 Chevy Blazer to compete in the EcoCAR Mobility Challenge.</p>
-			</div>
-		</div>
-		<!-- Python Power Flow & Fault -->
-		<div class="column">
-			<div class="content">
-			  <div style="margin-bottom:10px">
-			  <a style="color:inherit" href="pages/projects/python_power.html">
-			  <img src="images/CHW1_PWD_ONELINE.JPG" alt="Power World image of test system" style="width:100%">
-			  </div>
-			  <h3 style="font-size:1.5em">Power System Analysis Python Scripts</h3>
-			  </a>
-			  <p>A set of power flow and fault analysis scripts developed in Python for the EE 454 and EE 455 courses.</p>
 			</div>
 		</div>
 
@@ -236,6 +245,19 @@
 				  </ul>
 				  -->
 				</div>
+		</div>
+
+		<!-- Python Power Flow & Fault -->
+		<div class="column">
+			<div class="content">
+			  <div style="margin-bottom:10px">
+			  <a style="color:inherit" href="pages/projects/python_power.html">
+			  <img src="images/PowerflowScriptHeader.PNG" alt="Power World image of test system" style="width:100%">
+			  </div>
+			  <h3 style="font-size:1.5em">Power System Analysis Python Scripts</h3>
+			  </a>
+			  <p>A set of power flow and fault analysis scripts developed in Python for the EE 454 and EE 455 courses.</p>
+			</div>
 		</div>
 
 		<!-- Python Power Flow & Fault 

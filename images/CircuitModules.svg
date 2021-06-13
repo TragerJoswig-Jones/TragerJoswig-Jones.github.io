@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4in"
-   height="3in"
-   viewBox="0 0 101.6 76.200002"
+   height="2.5in"
+   viewBox="0 0 101.6 63.500003"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -85,21 +85,21 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.275604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 73.58999,32.917675 V 53.182608 H 46.541055"
+       d="M 73.58999,25.169163 V 45.434096 H 46.541055"
        id="path349"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.274571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 76.249746,32.922952 V 54.608314 H 46.682524"
+       d="M 76.249746,25.17444 V 46.859802 H 46.682524"
        id="path351"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.272211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 78.736825,32.929469 V 56.187717 H 46.540234"
+       d="M 78.736825,25.180957 V 48.439205 H 46.540234"
        id="path353"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -116,20 +116,20 @@
          y="33.639881"
          style="stroke-width:0.264583" /></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       d="m 44.581307,29.06747 0.467897,-0.665 -0.619055,-0.5432"
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.581307,21.318958 0.467897,-0.665 -0.619055,-0.5432"
        id="path5079-5-8-8-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.312519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.312519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4747-0-2-6-4-0-8-4"
        width="21.206455"
        height="9.0582676"
        x="45.427963"
-       y="23.51861"
+       y="15.770098"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
@@ -137,19 +137,19 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="56.009293"
-       y="22.701906"
+       y="14.953393"
        id="text4696-8-5-7-4-5-3-9-0-3-2"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="56.009293"
-         y="22.701906"
+         y="14.953393"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan5346-1-9-3-3-9-0-2">Boost Converter</tspan></text>
     <g
        id="g1635"
-       transform="translate(-10.699742,-82.02755)"
+       transform="translate(-10.699742,-89.776062)"
        style="opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -222,7 +222,7 @@
     </g>
     <g
        id="g2486"
-       transform="translate(2.6058779,-0.13363477)"
+       transform="translate(2.6058779,-7.8821469)"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
@@ -267,13 +267,13 @@
        width="9.620841"
        height="9.1591196"
        x="50.723713"
-       y="35.37582"
+       y="27.627308"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 51.502384,42.273655 h 2.116667 v -4.938901 h 4.233333 v 4.938901 h 1.713484"
+       d="m 51.502384,34.525143 h 2.116667 v -4.938901 h 4.233333 v 4.938901 h 1.713484"
        id="path5372"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -283,33 +283,33 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="60.726547"
-       y="41.044472"
+       y="33.295959"
        id="text4696-8-5-7-4-5-3-9-0-3-4-1-1"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="60.726547"
-         y="41.044472"
+         y="33.295959"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;baseline-shift:baseline;text-anchor:start;stroke-width:0.282222px"
          id="tspan5346-1-9-3-3-9-0-7-0-1">Boost</tspan><tspan
          sodipodi:role="line"
          x="60.726547"
-         y="42.684277"
+         y="34.935764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;baseline-shift:baseline;text-anchor:start;stroke-width:0.282222px"
          id="tspan1975">Gate </tspan><tspan
          sodipodi:role="line"
          x="60.726547"
-         y="44.324081"
+         y="36.575569"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;baseline-shift:baseline;text-anchor:start;stroke-width:0.282222px"
          id="tspan171">Driver</tspan></text>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#380070;stroke-width:0.352377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.81899, 2.81898999999999988;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#380070;stroke-width:0.352377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.81899, 2.81899;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5475"
        width="71.291061"
        height="46.423794"
        x="16.027277"
-       y="17.312901"
+       y="9.5643873"
        ry="7.9365392"
        rx="4.4345856"
        inkscape:export-xdpi="348.19449"
@@ -321,8 +321,8 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect265);fill:#000000;fill-opacity:1;stroke:none;" />
     <g
        id="g4214-3-5-7-3-9-7"
-       transform="matrix(0.19558888,0,0,0.27591291,15.153633,-116.95635)"
-       style="stroke-width:1.31984;stroke-miterlimit:4;stroke-dasharray:none;opacity:1"
+       transform="matrix(0.19558888,0,0,0.27591291,15.153633,-124.70486)"
+       style="opacity:1;stroke-width:1.31984;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png">
@@ -350,7 +350,7 @@
        width="10.712768"
        height="10.712769"
        x="3.3487122"
-       y="22.964617"
+       y="15.216104"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
@@ -358,7 +358,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38304px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.281919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="8.4001331"
-       y="36.413559"
+       y="28.668369"
        id="text4696-8-5-7-4-5-3-9-0-3"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
@@ -366,17 +366,17 @@
        transform="scale(0.99957128,1.0004289)"><tspan
          sodipodi:role="line"
          x="8.4001331"
-         y="36.413559"
+         y="28.668369"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.81919px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.281919px"
          id="tspan5346-1-9-3-3-9-0">Power</tspan><tspan
          sodipodi:role="line"
          x="8.4001331"
-         y="38.971066"
+         y="31.225878"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.81919px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.281919px"
          id="tspan2502">Source</tspan></text>
     <g
        id="g4760-2-8"
-       transform="matrix(0.28222223,0,0,0.28222223,-34.431564,71.007452)"
+       transform="matrix(0.28222223,0,0,0.28222223,-34.431564,63.25894)"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449">
@@ -406,7 +406,7 @@
     </g>
     <g
        id="g1644"
-       transform="translate(-22.793689,-82.02755)"
+       transform="translate(-22.793689,-89.776062)"
        style="opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -455,22 +455,22 @@
          id="path1211-1" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.338925px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       d="m 61.755316,27.05327 2e-6,-2.49518"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.338925px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.755316,19.304758 2e-6,-2.49518"
        id="path1211-1-6"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.338925px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       d="m 61.755316,31.7071 2e-6,-2.49518"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.338925px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.755316,23.958588 2e-6,-2.49518"
        id="path1211-1-6-6"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <g
        id="g1486"
-       transform="matrix(1.0761524,0,0,1.0960226,-29.443554,-119.37543)"
+       transform="matrix(1.0761524,0,0,1.0960226,-29.443554,-127.12394)"
        style="opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -548,7 +548,7 @@
     </g>
     <g
        id="g2279"
-       transform="translate(-38.717426,-85.91466)"
+       transform="translate(-38.717426,-93.663172)"
        style="opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -628,8 +628,8 @@
        id="rect4747-0-2-6-4-0-8-4-6"
        width="23.970762"
        height="15.138897"
-       x="22.636728"
-       y="45.453571"
+       x="22.636726"
+       y="37.705059"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
@@ -637,7 +637,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.54078px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="35.40345"
-       y="53.346905"
+       y="45.713932"
        id="text4696-8-5-7-4-5-3-9-0-3-2-3"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
@@ -645,12 +645,12 @@
        transform="scale(0.98508891,1.0151368)"><tspan
          sodipodi:role="line"
          x="35.40345"
-         y="53.346905"
+         y="45.713932"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.6173px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.46173px"
          id="tspan5346-1-9-3-3-9-0-2-10">DSP</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.118077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.118077, 0.354231;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 33.60386,30.321488 h 5.046798 v 0"
+       d="m 33.60386,22.572976 h 5.046798 v 0"
        id="path4297-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
@@ -658,7 +658,7 @@
        inkscape:export-ydpi="348.19449" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.118077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.118077, 0.354231;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 33.384676,32.210028 h 5.046798 v 0"
+       d="m 33.384676,24.461516 h 5.046798 v 0"
        id="path4297-2-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
@@ -666,7 +666,7 @@
        inkscape:export-ydpi="348.19449" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.11213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 33.60386,30.321488 h 2.619607"
+       d="m 33.60386,22.572976 h 2.619607"
        id="path4299-2-5-2-2-5"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -674,7 +674,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.11213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 33.384676,32.210028 h 2.619607"
+       d="m 33.384676,24.461516 h 2.619607"
        id="path4299-2-5-2-2-5-8"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -683,20 +683,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="28.252964"
-       y="36.356789"
+       x="28.252962"
+       y="28.608276"
        id="text4696-8-5-7-4-5-3-9-0-3-2-16"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
-         x="28.252964"
-         y="36.356789"
+         x="28.252962"
+         y="28.608276"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan5346-1-9-3-3-9-0-2-8">Power Supply</tspan><tspan
          sodipodi:role="line"
-         x="28.252964"
-         y="38.917042"
+         x="28.252962"
+         y="31.16853"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan1937">Stage</tspan></text>
     <path
@@ -704,7 +704,7 @@
        id="path5175-84"
        sodipodi:type="arc"
        sodipodi:cx="-82.832275"
-       sodipodi:cy="-27.767908"
+       sodipodi:cy="-20.019396"
        sodipodi:rx="0.45270774"
        sodipodi:ry="1.0508742"
        sodipodi:start="0.27122242"
@@ -715,10 +715,10 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        sodipodi:arc-type="arc"
        transform="scale(-1)"
-       d="m -82.396117,-27.486369 a 0.45270774,1.0508742 0 0 1 -0.552529,0.734023 0.45270774,1.0508742 0 0 1 -0.322406,-1.274252 0.45270774,1.0508742 0 0 1 0.545275,-0.762692 0.45270774,1.0508742 0 0 1 0.334675,1.257091" />
+       d="m -82.396117,-19.737857 a 0.45270774,1.0508742 0 0 1 -0.552529,0.734023 0.45270774,1.0508742 0 0 1 -0.322406,-1.274251 0.45270774,1.0508742 0 0 1 0.545275,-0.762693 0.45270774,1.0508742 0 0 1 0.334675,1.257091" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#005acd;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 82.858751,28.76931 V 44.43905"
+       d="m 82.858751,21.020798 v 15.66974"
        id="path5177-3"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -726,7 +726,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 55.326772,45.701663 0.64146,-0.92653 0.71269,0.92653"
+       d="m 55.326772,37.953151 0.64146,-0.92653 0.71269,0.92653"
        id="path5179-4"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -734,7 +734,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 89.083202,26.43525 0.46789,-0.665 -0.61905,-0.54319"
+       d="m 89.083202,18.686738 0.46789,-0.665 -0.61905,-0.54319"
        id="path5079-5-8-8-6-7-8"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -742,7 +742,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <g
        id="g2148"
-       transform="matrix(1.1974816,0,0,1.1625571,-74.223398,-104.86921)"
+       transform="matrix(1.1974816,0,0,1.1625571,-74.223398,-112.61772)"
        style="opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -771,24 +771,24 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="94.580765"
-       y="36.01543"
+       y="28.266918"
        id="text4696-8-5-7-4-5-3-9-0-3-2-6-5"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="94.580765"
-         y="36.01543"
+         y="28.266918"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan2143">E-Bike</tspan><tspan
          sodipodi:role="line"
          x="94.580765"
-         y="38.575684"
+         y="30.827171"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan2455">Motor</tspan></text>
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 89.327482,30.202951 0.46789,-0.665 -0.61905,-0.54319"
+       d="m 89.327482,22.454439 0.46789,-0.665 -0.61905,-0.54319"
        id="path5079-5-8-8-6-7-8-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -796,7 +796,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 88.810382,28.208792 0.46789,-0.665 -0.61905,-0.54319"
+       d="m 88.810382,20.46028 0.46789,-0.665 -0.61905,-0.54319"
        id="path5079-5-8-8-6-7-8-2-8"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -807,7 +807,7 @@
        id="path5175-84-0"
        sodipodi:type="arc"
        sodipodi:cx="-85.421318"
-       sodipodi:cy="-29.760973"
+       sodipodi:cy="-22.012461"
        sodipodi:rx="0.45270774"
        sodipodi:ry="1.0508742"
        sodipodi:start="0.27122242"
@@ -818,10 +818,10 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        sodipodi:arc-type="arc"
        transform="scale(-1)"
-       d="m -84.985159,-29.479434 a 0.45270774,1.0508742 0 0 1 -0.552529,0.734023 0.45270774,1.0508742 0 0 1 -0.322407,-1.274251 0.45270774,1.0508742 0 0 1 0.545275,-0.762693 0.45270774,1.0508742 0 0 1 0.334675,1.257091" />
+       d="m -84.985159,-21.730922 a 0.45270774,1.0508742 0 0 1 -0.552529,0.734023 0.45270774,1.0508742 0 0 1 -0.322407,-1.274251 0.45270774,1.0508742 0 0 1 0.545275,-0.762693 0.45270774,1.0508742 0 0 1 0.334675,1.257091" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#005acd;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 85.447811,30.76237 V 46.43211"
+       d="m 85.447811,23.013858 v 15.66974"
        id="path5177-3-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -829,7 +829,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#005acd;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.94642,60.081407 -0.92653,-0.64146 0.92653,-0.7127"
+       d="m 47.94642,52.332895 -0.92653,-0.64146 0.92653,-0.7127"
        id="path5179-4-5"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -837,7 +837,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 70.306298,27.089173 0.92653,0.64147 -0.92653,0.71268"
+       d="m 70.306298,19.340661 0.92653,0.64147 -0.92653,0.71268"
        id="path5179-7"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -845,35 +845,35 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.220651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 46.610905,48.043502 h 9.366615 v -3.26023"
+       d="M 46.610905,40.29499 H 55.97752 V 37.03476"
        id="path2401"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       d="M 55.876415,35.41661 V 32.54347"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.876415,27.668098 v -2.87314"
        id="path2403"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="opacity:1;fill:none;stroke:#005acd;stroke-width:0.323011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 82.843951,44.417412 v 13.25187 H 46.939149"
+       d="M 82.843951,36.6689 V 49.92077 H 46.939149"
        id="path2405"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="opacity:1;fill:none;stroke:#005acd;stroke-width:0.288979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 85.43886,46.420818 V 59.439947 H 47.01989"
+       d="M 85.43886,38.672306 V 51.691435 H 47.01989"
        id="path2407"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#005acd;stroke-width:0.290681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.865514,58.349899 -0.926365,-0.680608 0.926365,-0.756185"
+       d="m 47.865514,50.601387 -0.926365,-0.680608 0.926365,-0.756185"
        id="path5179-4-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -883,75 +883,75 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="94.414398"
-       y="27.893068"
+       y="20.144556"
        id="text4696-8-5-7-4-5-3-9-0-3-2-6-5-3"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="94.414398"
-         y="27.893068"
+         y="20.144556"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan2143-6">BLDC</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="52.510048"
-       y="15.494601"
+       y="7.7460885"
        id="text4696-8-5-7-4-5-3-9-0-3-2-5"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="52.510048"
-         y="15.494601"
+         y="7.7460885"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan5346-1-9-3-3-9-0-2-5">PCB</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 45.049206,28.402471 H 33.47551"
+       d="M 45.049206,20.653959 H 33.47551"
        id="path2488"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.009301,28.489956 H 14.12686"
+       d="M 23.009301,20.741444 H 14.12686"
        id="path2490"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 71.232828,27.730644 H 66.618304"
+       d="M 71.232828,19.982132 H 66.618304"
        id="path2494"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 89.551094,25.77025 h -8.43479"
+       d="m 89.551094,18.021738 h -8.43479"
        id="path2496"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 89.278274,27.543792 H 81.016078"
+       d="M 89.278274,19.79528 H 81.016078"
        id="path2498"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 89.795373,29.537952 H 81.016078"
+       d="M 89.795373,21.78944 H 81.016078"
        id="path2500"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 72.95045,33.846992 0.64146,-0.92653 0.71269,0.92653"
+       d="m 72.95045,26.09848 0.64146,-0.92653 0.71269,0.92653"
        id="path5179-4-4"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -959,7 +959,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 75.610367,33.85164 0.64146,-0.92653 0.71269,0.92653"
+       d="m 75.610367,26.103128 0.64146,-0.92653 0.71269,0.92653"
        id="path5179-4-4-8"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -967,7 +967,7 @@
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.097263,33.857126 0.64146,-0.92653 0.71269,0.92653"
+       d="m 78.097263,26.108614 0.64146,-0.92653 0.71269,0.92653"
        id="path5179-4-4-8-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="348.19449"
@@ -977,34 +977,34 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="51.318859"
-       y="47.362278"
+       y="39.613766"
        id="text4696-8-5-7-4-5-3-9-0-3-4-1-1-2-6-9"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"><tspan
          sodipodi:role="line"
          x="51.318859"
-         y="47.362278"
+         y="39.613766"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.282222px"
          id="tspan5346-1-9-3-3-9-0-7-0-1-4-3-3">Boost PWM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.19657px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.292876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="53.820831"
-       y="50.724327"
+       x="53.820827"
+       y="43.258827"
        id="text4696-8-5-7-4-5-3-9-0-3-4-1-1-2-6-9-6"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        transform="scale(0.96347561,1.037909)"><tspan
          sodipodi:role="line"
-         x="53.820831"
-         y="50.724327"
+         x="53.820827"
+         y="43.258827"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46438px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;baseline-shift:baseline;text-anchor:middle;stroke-width:0.292876px"
          id="tspan5346-1-9-3-3-9-0-7-0-1-4-3-3-1">Inverter PWM</tspan></text>
     <g
        id="g461"
-       transform="matrix(0.66734304,0,0,0.64314642,16.180009,10.129159)"
+       transform="matrix(0.66734304,0,0,0.64314642,16.180009,2.3806469)"
        style="fill:#ffffff"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1030,7 +1030,7 @@
     </g>
     <g
        id="g259"
-       transform="matrix(0.66734304,0,0,0.64314642,18.593021,12.370152)"
+       transform="matrix(0.66734304,0,0,0.64314642,18.593021,4.6216399)"
        style="fill:#ffffff"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1056,7 +1056,7 @@
     </g>
     <g
        id="g259-5"
-       transform="matrix(0.66734304,0,0,0.64314642,21.072334,14.503088)"
+       transform="matrix(0.66734304,0,0,0.64314642,21.072334,6.7545759)"
        style="fill:#ffffff"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1081,8 +1081,8 @@
          inkscape:export-filename="C:\Users\scochra6\Google Drive\Public Access\IEEE Paper Example\exampleBlock.png" />
     </g>
     <rect
-       y="27.087557"
-       x="5.4593787"
+       y="19.339045"
+       x="5.4593792"
        height="1.9127579"
        width="4.7787189"
        id="rect4209-6-3-0-2-5-4-4"
@@ -1093,7 +1093,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4192-4-69-2-6-3-1-9-6"
-       d="m 6.3500008,28.098784 h 3.013874"
+       d="m 6.3500008,20.350272 h 3.013874"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.244227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1101,21 +1101,21 @@
     <path
        inkscape:connector-curvature="0"
        id="path4192-7-6-3-4-5-0-1"
-       d="M 5.4737274,27.009256 H 10.223742"
+       d="M 5.4737274,19.260744 H 10.223742"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.306605;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 7.8483114,26.958019 V 25.187356"
+       d="M 7.8483114,19.209507 V 17.438844"
        id="path1451"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 7.8483114,30.013029 v 1.570209"
+       d="m 7.8483114,22.264517 v 1.570209"
        id="path1453"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1123,7 +1123,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4192-4-69-2-6-3-1-9-6-1"
-       d="m 6.3500008,30.101663 h 3.013874"
+       d="m 6.3500008,22.353151 h 3.013874"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.244227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
@@ -1131,21 +1131,21 @@
     <path
        inkscape:connector-curvature="0"
        id="path4192-7-6-3-4-5-0-1-1"
-       d="M 5.4880817,29.000324 H 10.238096"
+       d="M 5.4880817,21.251812 H 10.238096"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.306605;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449" />
     <path
        style="fill:#0000ff;fill-opacity:1;stroke:#005acd;stroke-width:0.2631px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 42.763127,28.519558 v 16.71581"
+       d="m 42.763127,20.771046 v 16.71581"
        id="path1533"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
        inkscape:export-filename="E:\UW\Classes\EE453\Ebike_Module.png" />
     <path
        style="fill:none;stroke:#005acd;stroke-width:0.264291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 68.893796,27.851205 v 22.325553 h -22.3085"
+       d="m 68.893796,20.102693 v 22.325553 h -22.3085"
        id="path1563"
        inkscape:export-xdpi="348.19449"
        inkscape:export-ydpi="348.19449"
@@ -1154,7 +1154,7 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.317321;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1565"
        cx="42.759819"
-       cy="28.387108"
+       cy="20.638596"
        rx="0.22233973"
        ry="0.21905133"
        inkscape:export-xdpi="348.19449"
@@ -1164,7 +1164,7 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.317321;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1565-9"
        cx="68.897072"
-       cy="27.720861"
+       cy="19.972349"
        rx="0.22233973"
        ry="0.21905133"
        inkscape:export-xdpi="348.19449"
