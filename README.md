@@ -1,4 +1,4 @@
-### University of Washington ⚡ PhD Student
+### University of Washington ⚡ Student
 
 #### Timeline of Experiences
 ![My Timeline](https://raw.githubusercontent.com/TragerJoswig-Jones/TragerJoswig-Jones/main/images/gantt_2021-06-21.svg)
