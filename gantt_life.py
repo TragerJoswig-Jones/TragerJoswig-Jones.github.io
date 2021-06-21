@@ -51,8 +51,9 @@ fig.update_layout(yaxis=dict(categoryorder='array')) # reverse the order of the 
 fig.update_layout(yaxis=dict(categoryarray=experiece_order)) # reverse the order of the y-axis tick labels
 fig.update_layout(paper_bgcolor='rgba(0,0,0,0)',
                     plot_bgcolor='rgba(0,0,0,0)',
-                    )
+                    showlegend=False,
+                    font_color="#808080")
 fig.update_xaxes(range=['2016-01-01', '2026-06-30'])
 
-fig.write_image("images/gantt_"+str(date.today())+"_legend.svg")
+fig.write_image("images/gantt_"+str(date.today())+".svg")
 fig.show()
