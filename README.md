@@ -2,7 +2,7 @@
 
 #### [my webpage](https://tragerjoswig-jones.github.io/TragerJoswig-Jones/)
 
-#### [my linkedin](https://tragerjoswig-jones.github.io/TragerJoswig-Jones/)
+#### [my linkedin](https://www.linkedin.com/in/tragerjj/)
 
 #### [my timeline](https://raw.githubusercontent.com/TragerJoswig-Jones/TragerJoswig-Jones/main/images/gantt_2021-06-21.svg)
 <!--
