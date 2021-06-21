@@ -17,9 +17,9 @@ color_list = {
                 "UW WPEL ": "#85754d"
                 }
 
-text = ["<b>SEL</b>","<b>SEL</b>","<b>SEL</b>","<b>UW BSEE</b>"+" "*42,
-        "<b>Micron</b>","<b>SEAL</b>","<b>REAL</b>"+" "*10,"<b>GM</b>","<b>NREL</b>","<b>UW PhD</b>"+" "*52,
-        "<b>WPEL</b>"+" "*54]
+text = ["<b>SEL</b>","<b>SEL</b>","<b>SEL</b>","<b>UW BSEE</b>"+" "*38,
+        "<b>Micron</b>","<b>SEAL</b>","<b>REAL</b>"+" "*8,"<b>GM</b>","<b>NREL</b>",
+        "<b>UW PhD</b>"+" "*50,"<b>WPEL</b>"+" "*52]
 
 category_orders = {
                     "Education": 0,
@@ -52,8 +52,9 @@ fig.update_layout(yaxis=dict(categoryarray=experiece_order)) # reverse the order
 fig.update_layout(paper_bgcolor='rgba(0,0,0,0)',
                     plot_bgcolor='rgba(0,0,0,0)',
                     showlegend=False,
-                    font_color="#808080")
+                    font_color="#808080",
+                    font_size=12)
 fig.update_xaxes(range=['2016-01-01', '2026-06-30'])
 
-fig.write_image("images/gantt_"+str(date.today())+".svg")
+fig.write_image("images/gantt_"+str(date.today())+"_unedited.svg")
 fig.show()
