@@ -1,8 +1,9 @@
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
+from datetime import date
 #pio.templates
-template="seaborn"
+template="simple_white" #"plotly_dark"
 
 color_list = {
                 "SEL ": "#0C3F6A",
@@ -43,11 +44,15 @@ df = pd.DataFrame([
 
 fig = px.timeline(df, x_start="Start", x_end="Finish", y="Experience", color="Organization",
                     facet_row_spacing=0.001, facet_col_spacing=0.001, color_discrete_map=color_list,
-                    text=text, category_orders=category_orders)
-fig.add_vrect(x0='2021-06-20',x1='2026-09-20',fillcolor='lightslategray',opacity=0.2, line_width=0,
+                    text=text, category_orders=category_orders, template=template, width=1250, height=800)
+fig.add_vrect(x0='2021-06-20',x1='2026-09-20',fillcolor='lightslategray',opacity=0.25, line_width=0,
                 annotation_text="The Future", annotation_position="top left") 
 fig.update_layout(yaxis=dict(categoryorder='array')) # reverse the order of the y-axis tick labels
 fig.update_layout(yaxis=dict(categoryarray=experiece_order)) # reverse the order of the y-axis tick labels
-
+fig.update_layout(paper_bgcolor='rgba(0,0,0,0)',
+                    plot_bgcolor='rgba(0,0,0,0)',
+                    )
 fig.update_xaxes(range=['2016-01-01', '2026-06-30'])
+
+fig.write_image("images/gantt_"+str(date.today())+"_legend.svg")
 fig.show()
