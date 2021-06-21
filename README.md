@@ -1,5 +1,7 @@
-### Senior Electrical Engineering undergraduate student at the University of Washington
+### University of Washington ⚡ PhD Student
 
+#### Timeline of Experiences
+![My Timeline](https://raw.githubusercontent.com/TragerJoswig-Jones/TragerJoswig-Jones/main/images/gantt_2021-06-21.svg)
 <!--
 **TragerJoswig-Jones/TragerJoswig-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
