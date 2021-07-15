@@ -19,9 +19,11 @@
 	  color: black;
 	}
 	body {
-	  background-color: #f1f1f1;
-	  padding: 20px;
-	  padding-bottom: 50px;
+	  background-color: #000000; 
+	  background-image: url(..//images/PCB_Background_Blurred.png);
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  padding: 10px;
 	  font-family: Arial;
 	}
 
@@ -29,9 +31,11 @@
 	.main {
 	  max-width: 1000px;
 	  margin: auto;
+	  padding: 15px;
+	  background-color: rgba(241, 241, 241, .75);
 	}
 
-	h1 {
+	title {
 	  font-size: 50px;
 	  word-break: break-all;
 	}
@@ -151,7 +155,7 @@
 	  align-items: center;
 	  justify-content: center;
 	  padding: 1rem;
-	  
+	  padding-bottom: 100px;
 	}
 
 	.share {
@@ -160,18 +164,18 @@
 	  float: left;
 	  margin: 0rem 1rem .5rem 0;
 	  color: #353c4a;
-	  border: .125rem solid #f3f3f3;
-	  box-shadow: 0 0 8px 0 rgba(50, 50, 50, 0.15);
+	  //border: .125rem solid #f3f3f3;
+	  //box-shadow: 0 0 8px 0 rgba(50, 50, 50, 0.15);
 	  border-radius: 50%;
 	  transition: 250ms;
-	  
+
 	  &:last-child {
 		margin-right: 0
 	  }
 	  
 	  &:hover,
 	  &:focus {
-		//background: #f1f1f1;
+		background: #f1f1f1;
 	  }
 	  
 	  &:focus {
@@ -202,13 +206,6 @@
 		
 	</style>
 	
-	
-    <title>Hello, world! I'm Trager. This is my about page.</title>
-  </head>
-  <body>
-    <h1>Hello, world! I'm Trager.</h1>
-    <p>This webpage is currently under development...</p>
-	
 <!-- MAIN (Center website) -->
 <div class="main">
 <a style="text-decoration:none" class="linked" href="../index.html">
@@ -217,7 +214,8 @@
 </div>
 <br><br>
 <div style="float:left">
-<h1 style="display:inline">Trager </h1> <h1 style="white-space: nowrap; display:inline">Joswig-Jones</h1>
+
+<title style="display:inline">Trager </title> <title style="white-space: nowrap; display:inline">Joswig-Jones</title>
 </a>
 <br>
 <A HREF="../index.html">Home</A>
@@ -248,7 +246,7 @@
 
 
 <!-- END MAIN -->
-</div>
+
 
 <svg class="svg--source" width="0" height="0" aria-hidden="true">
   <symbol id="svg--google" viewbox="-50 50 500 300">
@@ -325,5 +323,6 @@
 </div>
 </div>
 
-  </body>
+</div>
+</body>
 </html>
