@@ -9,11 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    class="main-svg"
    width="1250"
-   height="750"
-   viewBox="0 0 1250 750"
+   height="800"
+   style=""
+   viewBox="0 0 1250 800"
    version="1.1"
    id="svg304"
-   sodipodi:docname="gantt_2021-06-21.svg"
+   sodipodi:docname="gantt_2021-07-14.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata308">
@@ -41,8 +42,8 @@
      id="namedview306"
      showgrid="false"
      inkscape:zoom="0.55507882"
-     inkscape:cx="920.11534"
-     inkscape:cy="251.77008"
+     inkscape:cx="571.38556"
+     inkscape:cy="406.43582"
      inkscape:window-x="-8"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,36 +51,33 @@
   <path
      data-index="0"
      fill-rule="evenodd"
-     d="m 660.82,720 h 531.92 V 60 H 660.82 Z"
-     clip-path="url(#clip3e196ex)"
+     d="m 667.48,720 h 525.26 V 60 H 667.48 Z"
+     clip-path="url(#clipf208a0x)"
      style="opacity:0.25;fill:#778899;fill-opacity:1;stroke:#000000;stroke-width:0px;stroke-opacity:0"
-     id="path278"
-     transform="translate(32.427827,-19.817005)" />
+     id="path278" />
   <rect
-     x="32.427826"
-     y="-19.817005"
+     x="0"
+     y="0"
      width="1250"
      height="800"
-     style="fill:#000000;fill-opacity:0"
+     style="fill: rgb(0, 0, 0); fill-opacity: 0;"
      id="rect2" />
   <defs
-     id="defs-3e196e">
+     id="defs-f208a0">
     <g
        class="clips"
        id="g16">
       <clipPath
-         id="clip3e196exyplot"
+         id="clipf208a0xyplot"
          class="plotclip">
         <rect
            width="1063"
            height="660"
-           id="rect4"
-           x="0"
-           y="0" />
+           id="rect4" />
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip3e196ex">
+         id="clipf208a0x">
         <rect
            x="107"
            y="0"
@@ -89,7 +87,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip3e196ey">
+         id="clipf208a0y">
         <rect
            x="0"
            y="60"
@@ -99,7 +97,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip3e196exy">
+         id="clipf208a0xy">
         <rect
            x="107"
            y="60"
@@ -114,15 +112,14 @@
   </defs>
   <g
      class="bglayer"
-     id="g23"
-     transform="translate(32.427827,-19.817005)">
+     id="g23">
     <rect
        class="bg"
        x="107"
        y="60"
        width="1063"
        height="660"
-       style="fill:#000000;fill-opacity:0;stroke-width:0"
+       style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0;"
        id="rect21" />
   </g>
   <g
@@ -137,8 +134,7 @@
   </g>
   <g
      class="layer-subplot"
-     id="g35"
-     transform="translate(32.427827,-19.817005)">
+     id="g35">
     <g
        class="shapelayer"
        id="g31" />
@@ -148,8 +144,7 @@
   </g>
   <g
      class="gridlayer"
-     id="g41"
-     transform="translate(32.427827,-19.817005)">
+     id="g41">
     <g
        class="x"
        id="g37" />
@@ -159,8 +154,7 @@
   </g>
   <g
      class="zerolinelayer"
-     id="g43"
-     transform="translate(32.427827,-19.817005)" />
+     id="g43" />
   <path
      class="xlines-below"
      id="path45"
@@ -171,97 +165,107 @@
      d="" />
   <g
      class="overlines-below"
-     id="g49"
-     transform="translate(32.427827,-19.817005)" />
+     id="g49" />
   <g
      class="xaxislayer-below"
-     id="g51"
-     transform="translate(32.427827,-19.817005)" />
+     id="g51" />
   <g
      class="yaxislayer-below"
-     id="g53"
-     transform="translate(32.427827,-19.817005)" />
+     id="g53" />
   <g
      class="overaxes-below"
-     id="g55"
-     transform="translate(32.427827,-19.817005)" />
+     id="g55" />
   <path
-     d="m 185.46783,678.18299 v -176 h 26.9 v 176 z"
+     d="M 153.04,698 V 522 h 26.9 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#0c3f6a;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path57" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="590.0033"
-     y="-195.36783"
+     x="609.82031"
+     y="-162.1277"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
      transform="rotate(90)"
      id="text61"><tspan
        style="font-weight:bold"
        id="tspan59">SEL</tspan></text>
   <path
-     d="m 286.68783,678.18299 v -176 h 26.9 v 176 z"
+     d="M 254.26,698 V 522 h 26.9 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#0c3f6a;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path65" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="590.0033"
-     y="-296.58783"
+     x="609.80078"
+     y="-263.34769"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
      transform="rotate(90)"
      id="text69"><tspan
        style="font-weight:bold"
        id="tspan67">SEL</tspan></text>
   <path
-     d="m 387.91783,678.18299 v -176 h 26.9 v 176 z"
+     d="M 355.49,698 V 522 h 26.9 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#0c3f6a;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path73" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="590.0033"
-     y="-397.81784"
+     x="609.80078"
+     y="-364.5777"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
      transform="rotate(90)"
      id="text77"><tspan
        style="font-weight:bold"
        id="tspan75">SEL</tspan></text>
   <path
-     d="M 315.52783,238.18299 V 62.182995 h 375.23 V 238.18299 Z"
+     d="M 283.1,258 V 82 h 375.23 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#4b2e83;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path85" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="502.86719"
-     y="154.68298"
+     x="470.6066"
+     y="174.35059"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
      id="text89"><tspan
        style="font-weight:bold"
        id="tspan87">UW BSEE</tspan></text>
-  <path
-     d="m 491.63783,678.18299 v -176 h 20.52 v 176 z"
-     style="vector-effect:non-scaling-stroke;fill:#0077c8;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
-     id="path97" />
-  <text
-     class="bartext bartext-outside"
-     text-anchor="middle"
-     data-notex="1"
-     x="537.81409"
-     y="594.68298"
-     style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#808080;fill-opacity:1"
-     id="text101"><tspan
-       style="font-weight:bold"
-       id="tspan99">Micron</tspan></text>
+  <g
+     class="trace bars"
+     id="g107"
+     transform="translate(107,60)">
+    <g
+       class="points"
+       id="g105">
+      <g
+         class="point"
+         id="g103">
+        <path
+           d="M 352.21,638 V 462 h 20.52 v 176 z"
+           style="opacity:1;vector-effect:non-scaling-stroke;fill:#0077c8;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
+           id="path97" />
+        <text
+           class="bartext bartext-outside"
+           text-anchor="middle"
+           data-notex="1"
+           x="0"
+           y="0"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#808080;fill-opacity:1"
+           transform="translate(398.38625,554.5)"
+           id="text101"><tspan
+             style="font-weight:bold"
+             id="tspan99">Micron</tspan></text>
+      </g>
+    </g>
+  </g>
   <g
      class="trace bars"
      id="g119"
-     transform="translate(139.42783,40.182995)">
+     transform="translate(107,60)">
     <g
        class="points"
        id="g117">
@@ -287,15 +291,15 @@
     </g>
   </g>
   <path
-     d="m 575.10783,458.18299 v -176 h 115.65 v 176 z"
+     d="M 542.68,478 V 302 h 115.65 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#e8e3d3;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path121" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="633.60156"
-     y="374.68298"
+     x="600.06848"
+     y="394.3623"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
      id="text125"><tspan
        style="font-weight:bold"
@@ -303,7 +307,7 @@
   <g
      class="trace bars"
      id="g143"
-     transform="translate(139.42783,40.182995)">
+     transform="translate(107,60)">
     <g
        class="points"
        id="g141">
@@ -331,7 +335,7 @@
   <g
      class="trace bars"
      id="g155"
-     transform="translate(139.42783,40.182995)">
+     transform="translate(107,60)">
     <g
        class="points"
        id="g153">
@@ -339,7 +343,7 @@
          class="point"
          id="g151">
         <path
-           d="M 552.16,638 V 462 h 16.64 v 176 z"
+           d="M 552.16,638 V 462 h 18.58 v 176 z"
            style="opacity:1;vector-effect:non-scaling-stroke;fill:#0079c2;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
            id="path145" />
         <text
@@ -349,7 +353,7 @@
            x="0"
            y="0"
            style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#808080;fill-opacity:1"
-           transform="translate(589.50312,554.5)"
+           transform="translate(591.44312,554.5)"
            id="text149"><tspan
              style="font-weight:bold"
              id="tspan147">NREL</tspan></text>
@@ -357,55 +361,52 @@
     </g>
   </g>
   <path
-     d="M 721.26783,238.18299 V 62.182995 H 1197.1578 V 238.18299 Z"
+     d="M 688.84,258 V 82 h 475.89 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#b7a57a;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path157" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="959.32971"
-     y="154.68298"
+     x="926.59161"
+     y="174.46777"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
      id="text161"><tspan
        style="font-weight:bold"
        id="tspan159">UW PhD</tspan></text>
   <path
-     d="m 718.76783,458.18299 v -176 h 478.38997 v 176 z"
+     d="M 686.34,478 V 302 h 478.39 v 176 z"
      style="vector-effect:non-scaling-stroke;fill:#85754d;fill-opacity:1;stroke:#ffffff;stroke-width:0.5px;stroke-opacity:1"
      id="path169" />
   <text
      class="bartext bartext-inside"
      text-anchor="middle"
      data-notex="1"
-     x="959.37659"
-     y="374.68298"
+     x="925.46173"
+     y="394.3623"
      style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
      id="text173"><tspan
        style="font-weight:bold"
        id="tspan171">WPEL</tspan></text>
   <g
      class="overplot"
-     id="g185"
-     transform="translate(32.427827,-19.817005)" />
+     id="g185" />
   <path
      class="xlines-above crisp"
-     d="M 138.42783,700.68299 H 1202.4278"
+     d="M 106,720.5 H 1170"
      style="fill:none;stroke:#242424;stroke-width:1px;stroke-opacity:1"
      id="path187" />
   <path
      class="ylines-above crisp"
-     d="M 138.92783,40.182995 V 700.18299"
+     d="M 106.5,60 V 720"
      style="fill:none;stroke:#242424;stroke-width:1px;stroke-opacity:1"
      id="path189" />
   <g
      class="overlines-above"
-     id="g191"
-     transform="translate(32.427827,-19.817005)" />
+     id="g191" />
   <g
      class="xaxislayer-above"
-     id="g229"
-     transform="translate(32.427827,-19.817005)">
+     id="g229">
     <path
        class="xtick ticks crisp"
        d="m 0,721 v 5"
@@ -511,8 +512,7 @@
   </g>
   <g
      class="yaxislayer-above"
-     id="g249"
-     transform="translate(32.427827,-19.817005)">
+     id="g249">
     <path
        class="ytick ticks crisp"
        d="m 106,0 h -5"
@@ -567,8 +567,7 @@
   </g>
   <g
      class="overaxes-above"
-     id="g251"
-     transform="translate(32.427827,-19.817005)" />
+     id="g251" />
   <g
      class="polarlayer"
      id="g257" />
@@ -594,19 +593,17 @@
      class="glimages"
      id="g271" />
   <defs
-     id="topdefs-3e196e">
+     id="topdefs-f208a0">
     <g
        class="clips"
        id="g273" />
   </defs>
   <g
      class="imagelayer"
-     id="g276"
-     transform="translate(32.427827,-19.817005)" />
+     id="g276" />
   <g
      class="infolayer"
-     id="g302"
-     transform="translate(32.427827,-19.817005)">
+     id="g302">
     <g
        class="g-gtitle"
        id="g284" />
@@ -615,28 +612,29 @@
        id="g286" />
     <g
        class="g-ytitle"
-       transform="translate(2.0654297)"
+       transform="translate(2.0654296875,0)"
        id="g290">
       <text
          class="ytitle"
-         transform="rotate(-90,11.934375,390)"
-         x="11.934375"
+         transform="rotate(-90,11.934375000000003,390)"
+         x="11.934375000000003"
          y="390"
          text-anchor="middle"
-         style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#808080"
+         style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 14px; fill: rgb(128, 128, 128); opacity: 1; font-weight: normal; white-space: pre;"
          id="text288">Experience</text>
     </g>
     <g
        class="annotation"
        data-index="0"
-       style="opacity:1"
+       style="opacity: 1;"
        id="g300">
       <g
          class="annotation-text-g"
+         transform="rotate(0,702.48,69.5)"
          id="g298">
         <g
            class="cursor-pointer"
-           transform="translate(661,60)"
+           transform="translate(667,60)"
            id="g296">
           <rect
              class="bg"
@@ -644,14 +642,14 @@
              y="0.5"
              width="69"
              height="18"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
              id="rect292" />
           <text
              class="annotation-text"
              text-anchor="middle"
              x="35.71875"
              y="14"
-             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#808080;fill-opacity:1"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(128, 128, 128); fill-opacity: 1; white-space: pre;"
              id="text294">The Future</text>
         </g>
       </g>
