@@ -1,10 +1,6 @@
-### University of Washington ⚡ Student
+### University of Washington ⚡ PhD Student
 
 #### [my webpage](https://tragerjoswig-jones.github.io/TragerJoswig-Jones/)
-
-#### [my linkedin](https://www.linkedin.com/in/tragerjj/)
-
-#### [my timeline](https://raw.githubusercontent.com/TragerJoswig-Jones/TragerJoswig-Jones/main/images/gantt_2021-06-21.svg)
 <!--
 **TragerJoswig-Jones/TragerJoswig-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
