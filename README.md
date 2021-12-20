@@ -1,7 +1,5 @@
-### PhD Student, University of Washington ⚡ 
+### Senior Electrical Engineering undergraduate student at the University of Washington
 
-#### [webpage](https://tragerjoswig-jones.github.io/)
-#### [Linkedin](https://www.linkedin.com/in/tragerjj/)
 <!--
 **TragerJoswig-Jones/TragerJoswig-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
