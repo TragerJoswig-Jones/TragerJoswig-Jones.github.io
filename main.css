@@ -1,14 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<style>
-	* {
+* {
 	  box-sizing: border-box;
 	}
 	.linked {
@@ -20,8 +10,8 @@
 	}
 	body {
 	  background-color: #000000; 
-	  background-image: url(..//images/PCB_Background_Blurred.png);
-	  background-size: contain;
+	  background-image: url(images/PCB_Background_Blurred.png);
+	  background-size: 100%;
 	  background-repeat: no-repeat;
 	  padding: 10px;
 	  font-family: Arial;
@@ -32,11 +22,11 @@
 	  max-width: 1000px;
 	  margin: auto;
 	  padding: 15px;
-	  background-color: rgba(241, 241, 241, .75);
+	  background-color: rgba(241, 241, 241, .85);
 	}
 
 	title {
-	  font-size: 50px;
+	  font-size: 45px;
 	  word-break: break-all;
 	}
 
@@ -53,7 +43,7 @@
 	/* Create four equal columns that floats next to each other */
 	.column {
 	  float: left;
-	  width: 25%;
+	  width: 33%;
 	}
 
 	/* Clear floats after rows */ 
@@ -110,11 +100,60 @@
 	  background-color: white;
 	}
 	
-	<!-- Social Media Icons-->
-	html {
-	  box-sizing: border-box;
-	  background: #f3f3f3;
+	h1 {
+	  font-size: 50px;
+	  word-break: break-all;
 	}
+	
+	.float-container {
+		border: 0px solid #fff;
+		padding: 10px;
+		text-align: center;
+	}
+	
+	.float-child2{
+		width: 50%;
+		padding: 10px;
+		float: left;
+		border: 0px solid red;
+		align-items : center;
+		display: inline-block;
+	}  
+
+	.float-child3{
+		width: 30%;
+		padding: 10px;
+		border: 0px solid red;
+		height: auto;
+		align-items : center;
+		display: inline-block;
+	}  
+
+.papers {
+    padding: 10px;
+}
+ol {
+    counter-reset: list;
+    margin: 0;
+}
+
+ol > li {
+    list-style: none;
+    position: relative;
+}
+
+ol > li:before {
+    counter-increment: list;
+    content: "[" counter(list) "] ";
+    position: absolute;
+    left: -2.0em;
+}
+
+<!-- Social Media Icons-->
+html {
+  box-sizing: border-box;
+  background: #f3f3f3;
+}
 
 	*,
 	*:after,
@@ -203,51 +242,7 @@
 		color: #dd4b39;
 	  }
 	}
-		
-	</style>
 	
-<!-- MAIN (Center website) -->
-<div class="main">
-<a style="text-decoration:none" class="linked" href="../index.html">
-<div style="float:left;">
-<img src="../images/trager.png" alt="trager" style="height:150px; padding:10px">
-</div>
-<br><br>
-<div style="float:left">
-
-<title style="display:inline">Trager </title> <title style="white-space: nowrap; display:inline">Joswig-Jones</title>
-</a>
-<br>
-<A HREF="../index.html">Home</A>
-<A HREF="about.html" style="margin-left:10px">About</A>
-<A HREF="../index.html#Current Projects" style="margin-left:10px">Current Projects</A>
-<A HREF="../index.html#Past Projects" style="margin-left:10px">Past Projects</A>
-<A HREF="../files/Joswig-Jones_Trager_CV.pdf" download style="margin-left:10px">CV</A>
-</div>
-
-<hr style="clear: both;">
-
-<p>Graduate student at the University of Washington pursuing a Ph.D. in Electrical Engineering. Graduated from the University of Washington in 2021 with a BSEE degree. Experienced in python programming, 
- project management, and energy system modeling. Interested in opportunities to research sustainable
- solutions for power systems, with especial interest in the impacts of variable renewable energy 
- resources on system planning and operation. </p>
-
-<!-- Research Interests -->
-<h3 id="Research Interests">Research Interests</h3>
-<ul>
-  <li>Grid-Interfacing Power Electronics</li>
-  <li>Achieving High Levels of Variable Renewable Energy</li>
-  <li>Power System Modeling & Simulation</li>
-</ul>
-
-<!-- Timeline -->
-<h3 id="My Timeline">Professional Timeline</h3>
-<img src="../images/gantt_2021-07-14.svg" alt="My Timeline" style="max-width:90%; margin-left: auto; margin-right: auto; display: block;">
-
-
-<!-- END MAIN -->
-
-
 <svg class="svg--source" width="0" height="0" aria-hidden="true">
   <symbol id="svg--google" viewbox="-50 50 500 300">
     <path d="M 188.41,0.20 C 65.74,7.83 -20.64,120.85 4.17,241.28 21.81,326.95 95.30,392.00 182.71,399.31 310.07,409.97 414.36,301.38 398.45,174.69
@@ -297,32 +292,3 @@
 	30.18,27.25 30.23,27.25 30.23,27.25 Z" />
   </symbol>
 </svg>
-
-<div class="wrapper">
-<div class="connect">
-  <a href="https://www.linkedin.com/in/tragerjj/" class="share linkedin">
-    <svg role="presentation" class="svg--icon">
-      <use xlink:href="#svg--linkedin" />
-    </svg>
-    <span class="clip">LINKEDIN</span>
-  </a>
-
-  <a href="https://github.com/TragerJoswig-Jones" class="share github">
-    <svg role="presentation" class="svg--icon">
-      <use xlink:href="#svg--github" />
-      <span class="clip">GITHUB</span>
-    </svg>
-  </a>
-
-  <a href="" rel="author" class="share google">
-    <svg role="presentation" class="svg--icon">
-      <use xlink:href="#svg--google" />
-      <span class="clip">GOOGLE SCHOLAR</span>
-    </svg>
-  </a>
-</div>
-</div>
-
-</div>
-</body>
-</html>
