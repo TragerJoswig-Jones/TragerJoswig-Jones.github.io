@@ -205,7 +205,7 @@ html {
 	}
 
 	.wrapper {
-	  width: 100%;
+	  width: 90%;
 	  max-height: 10vh;
 	  display: flex;
 	  flex-wrap: nowrap;
