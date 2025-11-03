@@ -195,11 +195,11 @@ html {
 	}
 
 	.svg--icon {
-	  width: 100%;
-	  max-width: 5rem;
-	  height: 100%;
-	  max-height: 5rem;
+	  width: auto;
+	  height: auto;
 	  display: block;
+	  max-width: 10rem;
+	  max-height: 10rem;
 	  margin: 0 auto;
 	  fill: currentColor
 	}
@@ -209,15 +209,22 @@ html {
 	  height: 10vh;
 	  display: flex;
 	  flex-wrap: nowrap;
+	  flex-shrink: 1;
+	  max-width: 25rem;
 	  align-items: center;
 	  justify-content: center;
+	  margin: 0 auto;
 	  padding: 1rem;
-	  padding-bottom: 100px;
+	  padding-top: 40px;
+	  padding-bottom: 50px;
 	}
 
 	.share {
-	  width: 5rem;
-	  height: 5rem;
+	  width: 25%;
+	  aspect-ratio: 1 / 1; /* width = height */
+	  display: flex;
+	  max-width: 10rem;
+	  max-height: 10rem;
 	  float: left;
 	  margin: 0rem 1rem .5rem 0;
 	  color: #353c4a;
