@@ -198,8 +198,8 @@ html {
 	  width: auto;
 	  height: auto;
 	  display: block;
-	  max-width: 10rem;
-	  max-height: 10rem;
+	  max-width: 20rem;
+	  max-height: 20rem;
 	  margin: 0 auto;
 	  fill: currentColor
 	}
@@ -213,18 +213,16 @@ html {
 	  max-width: 25rem;
 	  align-items: center;
 	  justify-content: center;
-	  margin: 0 auto;
+	  margin: 1rem auto;
 	  padding: 1rem;
-	  padding-top: 40px;
-	  padding-bottom: 50px;
 	}
 
 	.share {
 	  width: 25%;
 	  aspect-ratio: 1 / 1; /* width = height */
 	  display: flex;
-	  max-width: 10rem;
-	  max-height: 10rem;
+	  max-width: 20rem;
+	  max-height: 20rem;
 	  float: left;
 	  margin: 0rem 1rem .5rem 0;
 	  color: #353c4a;
