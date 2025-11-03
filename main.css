@@ -1,3 +1,7 @@
+html {
+	scrollbar-gutter: stable both-edges;
+}  /* option 1: Adds bars on both sides of the page to prevent scrollbars from shifting content */
+
 * {
 	  box-sizing: border-box;
 	}
@@ -14,7 +18,16 @@
 	  background-size: 100%;
 	  background-repeat: no-repeat;
 	  padding: 10px;
-	  font-family: Arial;
+	  font-family: system-ui, sans-serif;
+	  /* option 2: Content stays, but background shifts */
+	  /*padding-left: calc(100vw - 100%);*/ 
+	}
+/*  option 3: A different approach for preventing scrollbar shifting
+	.main-page {
+	  overflow-y: scroll;
+	  width: 100vw;
+	  align-items: center;
+	  justify-content: center;
 	}
 
 	/* Center website */
@@ -152,6 +165,7 @@ ol > li:before {
     position: absolute;
     left: -2.0em;
 }
+
 
 <!-- Social Media Icons-->
 html {
