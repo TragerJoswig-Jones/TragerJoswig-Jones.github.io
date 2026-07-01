@@ -316,3 +316,19 @@ html {
 	30.18,27.25 30.23,27.25 30.23,27.25 Z" />
   </symbol>
 </svg>
+
+/* The container holding the images */
+.image-row {
+  display: flex;
+  gap: 16px; /* Adds consistent spacing between the images */
+  margin-top: 10px; /* Optional: adds a little breathing room under the paragraph */
+}
+
+/* The images themselves */
+.image-row img {
+  flex: 1; /* Forces all three images to take up an equal fraction of the row */
+  width: 100%; /* Ensures they scale properly */
+  height: auto; /* Maintains the original aspect ratio so they don't stretch */
+  object-fit: cover; /* Keeps things neat if your images have slightly different original dimensions */
+  border-radius: 4px; /* Optional: gives the images slightly rounded corners */
+}
